@@ -1,7 +1,7 @@
 package tugas;
 
-// Nama : AYASS
-// NPM  : 231001XXXX
+// Nama : Muhammad Farras Ananta
+// NPM  : 2310010544
 
 public class MainTugas {
 
